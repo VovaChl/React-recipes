@@ -12,7 +12,7 @@ import { NotFound } from './pages/NotFound';
 function App() {
   return (
       <>
-        <Router>
+        <Router basename='/react-recipes'>
           <Header />
           <main className='container content'>
             <Routes>
