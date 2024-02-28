@@ -1,1 +1,1 @@
-[Demo]([https://vovachl.github.io/react-recipes/)
+[Demo](https://vovachl.github.io/react-recipes/)
